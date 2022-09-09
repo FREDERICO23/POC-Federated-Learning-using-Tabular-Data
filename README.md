@@ -25,7 +25,8 @@ python client2.py
 ```
 The training runs for 10 rounds but you can increase the rounds.
 
-## Data Used for Churn:
-
+### Data Used for Churn prediction:
 - [Telcom Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/download?datasetVersionNumber=1)
+
+### Data used creditcard fraud prediction
 - [Creditcard Fraud Data](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/download?datasetVersionNumber=3)
